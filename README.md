@@ -2,7 +2,7 @@
 I recently started diving into React Native and I'm loving it :heart:. This is a curated list of talks about React Native or topics related to React Native that I enjoyed. Hopefully you can find them useful. I'll be updating this list whenever I've watched another talk that is worth adding. Suggestions are always appreciated through a pull request. Please take a look at the [Contribution Guidelines](CONTRIBUTING.md) beforehand.
 
 ## 2016 :point_down:
-* [**Brian Douglas - React-Native: Should I Even Bother Learning Swift? **](https://www.youtube.com/watch?v=2d0z_L4oXt8) `39:18`
+* [**Brian Douglas - React-Native: Should I Even Bother Learning Swift?**](https://www.youtube.com/watch?v=2d0z_L4oXt8) `39:18`
 * [**Bonnie Eisenman - React Native In The Wild**](https://www.youtube.com/watch?v=KWEhFWm0SL8) `32:34`
 * [**Dan Caspi - Making React Native Fast & Lean**](https://www.youtube.com/watch?v=9LV4D-Obgj4) `30:01`
 * [**Jani Eväkallio - Actually Building Things In React Native**](https://www.youtube.com/watch?v=ZqKYk0aTaYk) `34:40`
@@ -16,7 +16,7 @@ I recently started diving into React Native and I'm loving it :heart:. This is a
 * [**Christopher Chedeau - A Deep Dive into React Native**](https://www.youtube.com/watch?v=7rDsRXj9-cU) `30:13`
 * [**James Long - Why React Native is Different**](https://www.youtube.com/watch?v=ZM2NAD__iK4) `50:29`
 * [**Martin Konicek - Under The Hood of React Native**](https://www.youtube.com/watch?v=8N4f4h6SThc) `30:35`
-* [**Spencer Ahrens - React Native: Building Fluid User Experiences**](https://www.youtube.com/watch?v=xDlfrcM6YBk) ``35:14
+* [**Spencer Ahrens - React Native: Building Fluid User Experiences**](https://www.youtube.com/watch?v=xDlfrcM6YBk) `35:14`
 
 ## Recommendations :thumbsup:
 Also check out the [awesome-react-native](https://github.com/jondot/awesome-react-native) and [open-source-react-native-apps](https://github.com/vitorebatista/open-source-react-native-apps) repos.
