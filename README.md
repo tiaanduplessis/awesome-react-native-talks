@@ -1,7 +1,7 @@
 # Here be :point_right: **Awesome React Native Talks** :point_left: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![React Native](https://img.shields.io/badge/React%20Native-Awesome-blue.svg)](https://facebook.github.io/react-native/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![Build Status](https://travis-ci.org/mightyCrow/awesome-react-native-talks.svg?branch=master)](https://travis-ci.org/mightyCrow/awesome-react-native-talks)
+[![Build Status](https://travis-ci.org/tiaanduplessis/awesome-react-native-talks.svg?branch=master)](https://travis-ci.org/tiaanduplessis/awesome-react-native-talks)
 
 I recently started diving into React Native and I'm loving it :heart:. This is a curated list of talks about React Native or topics related to React Native that I enjoyed. Hopefully you can find them useful. I'll be updating this list whenever I've watched another talk that is worth adding. Suggestions are always appreciated through a pull request. Please take a look at the [Contribution Guidelines](CONTRIBUTING.md) beforehand.
 
@@ -26,9 +26,9 @@ I recently started diving into React Native and I'm loving it :heart:. This is a
 Also check out the [awesome-react-native](https://github.com/jondot/awesome-react-native) and [open-source-react-native-apps](https://github.com/vitorebatista/open-source-react-native-apps) repos.
 
 ## :raised_hand: Some good old React talks
-Check out my [awesome-react-talks](https://github.com/mightyCrow/awesome-react-talks) repo.
+Check out my [awesome-react-talks](https://github.com/tiaanduplessis/awesome-react-talks) repo.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Tiaan du Plessis](https://github.com/mightyCrow) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Tiaan du Plessis](https://github.com/tiaanduplessis) has waived all copyright and related or neighboring rights to this work.
