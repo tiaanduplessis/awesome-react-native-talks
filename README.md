@@ -11,6 +11,7 @@ I recently started diving into React Native and I'm loving it :heart:. This is a
 - [**Dan Caspi - Making React Native Fast & Lean**](https://www.youtube.com/watch?v=9LV4D-Obgj4) `30:01`
 - [**Jani Eväkallio - Actually Building Things In React Native**](https://www.youtube.com/watch?v=ZqKYk0aTaYk) `34:40`
 - [**Tadeu Zagallo - Optimising React Native: Tools and Tips**](https://www.youtube.com/watch?v=0MlT74erp60) `24:12`
+- [**Tal Kol - Building a React Native App for 80 Million Users**](https://www.youtube.com/watch?v=abSNo2P9mMM&t) `43:20`
 - [**Tal Kol - Introduction to React Native Performance**](https://www.youtube.com/watch?v=9VqVv_sVgv0) `18:11`
 
 ## :point_down: 2015
