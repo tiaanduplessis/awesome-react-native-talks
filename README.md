@@ -5,7 +5,11 @@
 
 I recently started diving into React Native and I'm loving it :heart:. This is a curated list of talks about React Native or topics related to React Native that I enjoyed. Hopefully you can find them useful. I'll be updating this list whenever I've watched another talk that is worth adding. Suggestions are always appreciated through a pull request. Please take a look at the [Contribution Guidelines](CONTRIBUTING.md) beforehand.
 
+## :point_down: 2017
+- [**Parashuram N - Web Like Development and Release Agility for React Native**](https://www.youtube.com/watch?v=iMLpUVZseEg) `35:21`
+
 ## :point_down: 2016
+
 - [**Brian Douglas - React-Native: Should I Even Bother Learning Swift?**](https://www.youtube.com/watch?v=2d0z_L4oXt8) `39:18`
 - [**Bonnie Eisenman - React Native In The Wild**](https://www.youtube.com/watch?v=KWEhFWm0SL8) `32:34`
 - [**Dan Caspi - Making React Native Fast & Lean**](https://www.youtube.com/watch?v=9LV4D-Obgj4) `30:01`
@@ -15,6 +19,7 @@ I recently started diving into React Native and I'm loving it :heart:. This is a
 - [**Tal Kol - Introduction to React Native Performance**](https://www.youtube.com/watch?v=9VqVv_sVgv0) `18:11`
 
 ## :point_down: 2015
+
 - [**Adam Miskiewicz - React Native in Production**](https://www.youtube.com/watch?v=yVt52ZaC-Ck) `32:10`
 - [**Adam Wolff - React Native**](https://www.youtube.com/watch?v=0rm4lt9bh2k) `21:03`
 - [**Brent Vatne - From React web to native mobile: mapping out the unknown unknowns**](https://www.youtube.com/watch?v=-XxSCi8TKuk) `53:02`
@@ -24,12 +29,15 @@ I recently started diving into React Native and I'm loving it :heart:. This is a
 - [**Spencer Ahrens - React Native: Building Fluid User Experiences**](https://www.youtube.com/watch?v=xDlfrcM6YBk) `35:14`
 
 ## :thumbsup: Recommendations
+
 Also check out the [awesome-react-native](https://github.com/jondot/awesome-react-native) and [open-source-react-native-apps](https://github.com/vitorebatista/open-source-react-native-apps) repos.
 
 ## :raised_hand: Some good old React talks
+
 Check out my [awesome-react-talks](https://github.com/tiaanduplessis/awesome-react-talks) repo.
 
 ## License
+
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Tiaan du Plessis](https://github.com/tiaanduplessis) has waived all copyright and related or neighboring rights to this work.
