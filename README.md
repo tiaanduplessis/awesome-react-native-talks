@@ -1,16 +1,16 @@
-# Here be :point_right: **Awesome React Native Talks** :point_left: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# **Awesome React Native Talks** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![React Native](https://img.shields.io/badge/React%20Native-Awesome-blue.svg)](https://facebook.github.io/react-native/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Build Status](https://travis-ci.org/tiaanduplessis/awesome-react-native-talks.svg?branch=master)](https://travis-ci.org/tiaanduplessis/awesome-react-native-talks)
 
 This is a curated list of talks about React Native or topics related to React Native that I enjoyed. Hopefully you can find them useful. I'll be updating this list whenever I've watched another talk that is worth adding. Suggestions are always appreciated through a pull request. Please take a look at the [Contribution Guidelines](CONTRIBUTING.md) beforehand.
 
-## :point_down: 2017
+## 2017
 
 - [**Leland Richardson - React Native in the "Brown Field"**](https://www.youtube.com/watch?v=tWitQoPgs8w) `27:56`
 - [**Parashuram N - Web Like Development and Release Agility for React Native**](https://www.youtube.com/watch?v=iMLpUVZseEg) `35:21`
 
-## :point_down: 2016
+## 2016
 
 - [**Brian Douglas - React-Native: Should I Even Bother Learning Swift?**](https://www.youtube.com/watch?v=2d0z_L4oXt8) `39:18`
 - [**Bonnie Eisenman - React Native In The Wild**](https://www.youtube.com/watch?v=KWEhFWm0SL8) `32:34`
@@ -20,7 +20,7 @@ This is a curated list of talks about React Native or topics related to React Na
 - [**Tal Kol - Building a React Native App for 80 Million Users**](https://www.youtube.com/watch?v=abSNo2P9mMM&t) `43:20`
 - [**Tal Kol - Introduction to React Native Performance**](https://www.youtube.com/watch?v=9VqVv_sVgv0) `18:11`
 
-## :point_down: 2015
+## 2015
 
 - [**Adam Miskiewicz - React Native in Production**](https://www.youtube.com/watch?v=yVt52ZaC-Ck) `32:10`
 - [**Adam Wolff - React Native**](https://www.youtube.com/watch?v=0rm4lt9bh2k) `21:03`
@@ -34,7 +34,7 @@ This is a curated list of talks about React Native or topics related to React Na
 
 Also check out the [awesome-react-native](https://github.com/jondot/awesome-react-native) and [open-source-react-native-apps](https://github.com/vitorebatista/open-source-react-native-apps) repos.
 
-## :raised_hand: Some good old React talks
+## :raised_hand: Looking for React related talks
 
 Check out my [awesome-react-talks](https://github.com/tiaanduplessis/awesome-react-talks) repo.
 

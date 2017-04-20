@@ -1,13 +1,8 @@
 {
   "scripts": {
-    "test": "awesome-lint",
-    "clean": "rm -rf ./input ./output",
-    "generate-site": "npm run clean; ./parse-emoji.sh; generate-md --layout thomasf-solarizedcssdark",
-    "deploy": "npm run generate-site; gh-pages -d output; npm run clean"
+    "test": "awesome-lint"
   },
   "devDependencies": {
-    "awesome-lint": "*",
-    "gh-pages": "^0.12.0",
-    "markdown-styles": "^3.1.8"
+    "awesome-lint": "*"
   }
 }
