@@ -3,9 +3,11 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Build Status](https://travis-ci.org/tiaanduplessis/awesome-react-native-talks.svg?branch=master)](https://travis-ci.org/tiaanduplessis/awesome-react-native-talks)
 
-I recently started diving into React Native and I'm loving it :heart:. This is a curated list of talks about React Native or topics related to React Native that I enjoyed. Hopefully you can find them useful. I'll be updating this list whenever I've watched another talk that is worth adding. Suggestions are always appreciated through a pull request. Please take a look at the [Contribution Guidelines](CONTRIBUTING.md) beforehand.
+This is a curated list of talks about React Native or topics related to React Native that I enjoyed. Hopefully you can find them useful. I'll be updating this list whenever I've watched another talk that is worth adding. Suggestions are always appreciated through a pull request. Please take a look at the [Contribution Guidelines](CONTRIBUTING.md) beforehand.
 
 ## :point_down: 2017
+
+- [**Leland Richardson - React Native in the "Brown Field"**](https://www.youtube.com/watch?v=tWitQoPgs8w) `27:56`
 - [**Parashuram N - Web Like Development and Release Agility for React Native**](https://www.youtube.com/watch?v=iMLpUVZseEg) `35:21`
 
 ## :point_down: 2016
