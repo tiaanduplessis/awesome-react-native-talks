@@ -9,6 +9,7 @@ This is a curated list of talks about React Native or topics related to React Na
 
 - [**Chris Ball - From Idea to App Store: A Guide to Shipping React Native Apps**](https://youtu.be/W8X7t1qlT_w) `33:53`
 - [**Joel Arvidsson - Performant Animations in React Native**](https://www.youtube.com/watch?v=UPrKMGPDbtY) `50:07`
+- [**Ken Wheeler - Why we Need an App Browser**](https://youtu.be/WEQx3wz8QeY) `23:31`
 - [**Leland Richardson - React Native in the "Brown Field"**](https://www.youtube.com/watch?v=tWitQoPgs8w) `27:56`
 - [**Parashuram N - Web Like Development and Release Agility for React Native**](https://www.youtube.com/watch?v=iMLpUVZseEg) `35:21`
 - [**Tal Kol - Performance Limitations of React Native and How to Overcome Them**](https://youtu.be/OmiXlJ4ZzAo) `28:58`
