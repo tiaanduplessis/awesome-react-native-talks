@@ -10,6 +10,7 @@ This is a curated list of talks about React Native or topics related to React Na
 - [**Joel Arvidsson - Performant Animations in React Native**](https://www.youtube.com/watch?v=UPrKMGPDbtY) `50:07`
 - [**Leland Richardson - React Native in the "Brown Field"**](https://www.youtube.com/watch?v=tWitQoPgs8w) `27:56`
 - [**Parashuram N - Web Like Development and Release Agility for React Native**](https://www.youtube.com/watch?v=iMLpUVZseEg) `35:21`
+- [**Tal Kol - Performance Limitations of React Native and How to Overcome Them**](https://youtu.be/OmiXlJ4ZzAo) `28:58`
 
 ## 2016
 
