@@ -8,6 +8,7 @@ This is a curated list of talks about React Native or topics related to React Na
 ## 2017
 
 - [**Aaron Greenwald - Testing & React Native: Lessons from the Battlefield**](https://youtu.be/cUSUJXAvt6k) `29:57`
+- [**Alex Kotliarskyi - Building stellar user experiences with React Native**](https://youtu.be/fjS5ssBn3fA) `23:42`
 - [**Chris Ball - From Idea to App Store: A Guide to Shipping React Native Apps**](https://youtu.be/W8X7t1qlT_w) `33:53`
 - [**Harry Tormey - When to go Native Over Javascript**](https://youtu.be/kFyaj5HmMEY) ` 24:02`
 - [**Joel Arvidsson - Performant Animations in React Native**](https://www.youtube.com/watch?v=UPrKMGPDbtY) `50:07`
