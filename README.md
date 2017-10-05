@@ -1,4 +1,6 @@
 # **Awesome React Native Talks** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/awesome-react-native-talks.svg)](https://greenkeeper.io/)
 [![React Native](https://img.shields.io/badge/React%20Native-Awesome-blue.svg)](https://facebook.github.io/react-native/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![Build Status](https://travis-ci.org/tiaanduplessis/awesome-react-native-talks.svg?branch=master)](https://travis-ci.org/tiaanduplessis/awesome-react-native-talks)
