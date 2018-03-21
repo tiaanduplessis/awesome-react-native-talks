@@ -7,6 +7,10 @@
 
 This is a curated list of talks about React Native or topics related to React Native that I enjoyed. Hopefully you can find them useful. I'll be updating this list whenever I've watched another talk that is worth adding. Suggestions are always appreciated through a pull request. Please take a look at the [Contribution Guidelines](CONTRIBUTING.md) beforehand.
 
+## 2018
+
+- [**Nicolas Couvrat - Wait, What Happens When My React Native Application Starts?**](https://youtu.be/rReCzR6DMEM) `11:37`
+
 ## 2017
 
 - [**Aaron Greenwald - Testing & React Native: Lessons from the Battlefield**](https://youtu.be/cUSUJXAvt6k) `29:57`
