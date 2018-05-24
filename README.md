@@ -12,6 +12,7 @@ This is a curated list of talks about React Native or topics related to React Na
 - [**Brent Vatne - React Navigation**](https://youtu.be/wJJZ9Od8MjM) `26:13`
 - [**Nicolas Couvrat - Wait, What Happens When My React Native Application Starts?**](https://youtu.be/rReCzR6DMEM) `11:37`
 - [**Rotem Mizrachi-Meidan and Shalom Yerushalm - Continuous Workflow for a Large React Native App: Mobile At Wix**](https://www.youtube.com/watch?v=MDab8HtQi3E&list=PLNBNS7NRGKMFi_glL49hsoyqu7dHTMnNm&t=0s&index=21) `23:50`
+- [**Vincent Riemer - ridging React Native Back to its Roots**](https://youtu.be/aOWIJ4Mgb2k) `27:16`
 
 ## 2017
 
