@@ -1,8 +1,8 @@
 {
   "scripts": {
-    "test": "awesome-lint"
+    "test": "prettier --write README.md"
   },
   "devDependencies": {
-    "awesome-lint": "*"
+    "prettier": "^1.12.1"
   }
 }
