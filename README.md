@@ -13,6 +13,7 @@ This is a curated list of talks about React Native or topics related to React Na
 * [**Rotem Mizrachi-Meidan and Shalom Yerushalm - Continuous Workflow for a Large React Native App: Mobile At Wix**](https://www.youtube.com/watch?v=MDab8HtQi3E&list=PLNBNS7NRGKMFi_glL49hsoyqu7dHTMnNm&t=0s&index=21) `23:50`
 * [**Narendra Shetty - Push Notification With React Native**](https://youtu.be/XCk31D5vY0U) `31:13`
 * [**Vincent Riemer - Bridging React Native Back to its Roots**](https://youtu.be/aOWIJ4Mgb2k) `27:16`
+* [**Woody Rousseau - Asynchronous & Offline Magic Tricks on React Native**](https://www.youtube.com/watch?v=PBNAz-yAxrY) `27:31`
 
 ## 2017
 
