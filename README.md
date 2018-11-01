@@ -9,8 +9,10 @@ This is a curated list of talks about React Native or topics related to React Na
 ## 2018
 
 * [**Brent Vatne - React Navigation**](https://youtu.be/wJJZ9Od8MjM) `26:13`
+* [**James Long - Block the Main Thread**](https://youtu.be/ZXqyaslyXUw) ` 31:15`
 * [**Nicolas Couvrat - Wait, What Happens When My React Native Application Starts?**](https://youtu.be/rReCzR6DMEM) `11:37`
 * [**Ram N - The State of React Native**](https://youtu.be/83ffAY-CmL4) `27:31`
+* [**Ram N - React Native's New Architecture**](https://youtu.be/UcqRXTriUVI) ` 29:29`
 * [**Rotem Mizrachi- Meidan and Shalom Yerushalm - Continuous Workflow for a Large React Native App: Mobile At Wix**](https://www.youtube.com/watch?v=MDab8HtQi3E&list=PLNBNS7NRGKMFi_glL49hsoyqu7dHTMnNm&t=0s&index=21) `23:50`
 * [**Samantha Bretous - From Sketch to Code: Designing a Component Kit**](https://www.youtube.com/watch?v=C6fqRieYRVw) `23:33`
 * [**Narendra Shetty - Push Notification With React Native**](https://youtu.be/XCk31D5vY0U) `31:13`
