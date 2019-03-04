@@ -6,6 +6,10 @@
 
 This is a curated list of talks about React Native or topics related to React Native that I enjoyed. I'll be updating this list whenever I've watched another talk that is worth adding. Suggestions are always appreciated through a pull request. Please take a look at the [Contribution Guidelines](CONTRIBUTING.md) beforehand.
 
+## 2019
+
+* [**Ofir Dagan - (Don’t) Blame it on React Native**](https://youtu.be/YSxVG5JbyOE) `24:20`
+
 ## 2018
 
 * [**Brent Vatne - React Navigation**](https://youtu.be/wJJZ9Od8MjM) `26:13`
