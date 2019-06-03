@@ -8,6 +8,7 @@ This is a curated list of talks about React Native or topics related to React Na
 
 ## 2019
 
+* [**Lorenzo Sciandra - React Native: the past, the present and the future**](https://youtu.be/I5hpTYrT3_U) `37:18`
 * [**Ofir Dagan - (Don’t) Blame it on React Native**](https://youtu.be/YSxVG5JbyOE) `24:20`
 
 ## 2018
