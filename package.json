@@ -3,6 +3,6 @@
     "test": "prettier --write README.md"
   },
   "devDependencies": {
-    "prettier": "^1.12.1"
+    "prettier": "1.12.1"
   }
 }
