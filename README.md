@@ -13,6 +13,7 @@ This is a curated list of talks about React Native or topics related to React Na
 
 ## 2018
 
+* [**Radosław Pietruszewski - Next-generation React databases**](https://www.youtube.com/watch?v=UlZ1QnFF4Cw) `26:36`
 * [**Brent Vatne - React Navigation**](https://youtu.be/wJJZ9Od8MjM) `26:13`
 * [**James Long - Block the Main Thread**](https://youtu.be/ZXqyaslyXUw) ` 31:15`
 * [**Nicolas Couvrat - Wait, What Happens When My React Native Application Starts?**](https://youtu.be/rReCzR6DMEM) `11:37`
