@@ -5,9 +5,12 @@
 [![Build Status](https://travis-ci.org/tiaanduplessis/awesome-react-native-talks.svg?branch=master)](https://travis-ci.org/tiaanduplessis/awesome-react-native-talks)
 
 This is a curated list of talks about React Native or topics related to React Native that I enjoyed. I'll be updating this list whenever I've watched another talk that is worth adding. Suggestions are always appreciated through a pull request. Please take a look at the [Contribution Guidelines](CONTRIBUTING.md) beforehand.
-
+## 2020
+* [**React Native At Wix - Building an App for 150 Million Users - Omri Bruchim**](https://youtu.be/gTSS6m5mho4)
 ## 2019
-
+* [**Chain React 2019 - Vlad Novick- Demystifying complex animations creation process in React Native**](https://youtu.be/p6VbcTe0SjE) `25:27`
+* [**Chain React 2019- Adhithi Ravichandran- Building React Native Apps 10 Things I've Learned On The Way**](https://youtu.be/wj3xN_fSQ10) `30:37`
+* [**Chain React 2019 - Ram Narasimhan - Performance in React Native**](https://youtu.be/nphKGWjhg2M) `30:10`
 * [**Lorenzo Sciandra - React Native: the past, the present and the future**](https://youtu.be/I5hpTYrT3_U) `37:18`
 * [**Ofir Dagan - (Don’t) Blame it on React Native**](https://youtu.be/YSxVG5JbyOE) `24:20`
 
